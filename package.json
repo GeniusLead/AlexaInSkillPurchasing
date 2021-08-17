@@ -1,0 +1,24 @@
+{
+  "name": "@geniusleaduk/alexainskillpurchasing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeniusLead/AlexaInSkillPurchasing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeniusLead/AlexaInSkillPurchasing/issues"
+  },
+  "homepage": "https://github.com/GeniusLead/AlexaInSkillPurchasing#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "lodash": "^4.17.21",
+    "mocha": "^9.0.3"
+  }
+}
